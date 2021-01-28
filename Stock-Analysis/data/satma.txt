@@ -1,0 +1,7 @@
+symbol	Base-volume	shopping-line	Sales-volume	time	date
+satma	20		0		5		8.45	1.18
+satma	20		40		10.5		9	1.18
+satma	20		45		12.5		10	1.18
+satma	20		43		18.3		11	1.18
+satma	20		20		22		12	1.18
+satma	20		35		25.5		12.30	1.18
